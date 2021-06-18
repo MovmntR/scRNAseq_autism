@@ -14,8 +14,10 @@
  t-SNE 알고리즘을 사용하여 높은 유전자 발현량을 기준으로 clustering 후 2차원 공간에 나타낸 결과 Prefrontal cortex 와 Anterior cingulate cortex의 sing nuclei cell 데이터는 14개의 cell cluster로 구분되었다[1].  
   
 Fig 1. Cell clustering (t-SNE)
+
+Fig 2. Expression of gene markers  
   
-                                                                                      Fig 2. Expression of gene markers 
+
 ### 2. Hierarchical clustering
   
  ADS과 통제 집단에서 발현량에서 가장 차이가 큰 상위 유전자 20개를 비교하였을 때, 그 양상에 따라 cell-type이 계층화 되었다. Interneuron(IN-PV, IN-SST, IN-SV2C, IN-VIP)과 NRGN expressing neuron (Neu-NRGN-1, Neu-NRGN-2), Astrocytes (AST-FB, AST-PP), 그리고 Layer 2-6가 각각 비슷한 양상을 보이는 것으로 확인되었다.  
